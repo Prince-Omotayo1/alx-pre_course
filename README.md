@@ -1,2 +1,1 @@
-My first commit
-README update from github.com
+I'm a software Engineer
